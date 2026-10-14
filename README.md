@@ -1,16 +1,15 @@
-## Hi there 👋
+## Lasse Pajunen
 
-<!--
-**lpajunen/lpajunen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building **[aiwebengine](https://github.com/lpajunen/aiwebengine)**, an
+engine for JavaScript/TypeScript solutions (websites, HTTP APIs, MCP tools and
+agents) that is designed to be developed with generative AI. It is written in
+Rust and runs each solution in a sandboxed QuickJS runtime, with its scripts
+stored in Postgres and no build step.
 
-Here are some ideas to get you started:
+- [aiwebengine](https://github.com/lpajunen/aiwebengine): the engine
+- [aiwebengine-agent](https://github.com/lpajunen/aiwebengine-agent): a prompt-driven agent that runs on it
+- [aiwebengine-examples](https://github.com/lpajunen/aiwebengine-examples): example solutions
+- [aiwebengine-dev](https://github.com/lpajunen/aiwebengine-dev): documentation and tooling for solution developers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contributions and issues are welcome. Security reports go through
+[SECURITY.md](https://github.com/lpajunen/aiwebengine/blob/main/SECURITY.md).
